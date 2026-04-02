@@ -24,4 +24,12 @@ Examples include:
 - Label propagation  
 - Hybrid supervised–unsupervised pipelines  
 
+📁 **deep-learning/**  
+Models based on neural network architectures for complex pattern recognition tasks.  
+Examples include:
+- Convolutional Neural Networks (CNNs)  
+- Recurrent Neural Networks (RNNs)  
+- Long Short-Term Memory networks (LSTMs)  
+- Transformers  
+
 Each folder may contain datasets, notebooks, source code, and trained models related to that learning approach.
